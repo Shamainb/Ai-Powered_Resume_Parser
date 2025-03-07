@@ -28,4 +28,6 @@ pytest - Testing framework to ensure robust functionality.
 Llama ML Model - Machine learning model for resume parsing and data extraction.
 
 
+
+
 ![Alt Text](https://github.com/Shamainb/Ai-Powered_Resume_Parser/blob/4c7efed31fd0e2d8bf5aa42604fd81cb4ab67e3f/Screenshot%20(57).png)
