@@ -3,7 +3,7 @@
 
 Free Resume Parser: Test Your Resume for ATS Compatibility
 
-Worried that applicant tracking system (ATS) software won’t be able to accurately scan your resume? Our AI-powered online resume parser instantly scans each section of your resume to confirm its ATS-friendliness.
+Worried that applicant tracking system (ATS) software won’t be able to accurately scan your resume? My AI-powered online resume parser instantly scans each section of your resume to confirm its ATS-friendliness.
 
 
 # 🚀 Features
